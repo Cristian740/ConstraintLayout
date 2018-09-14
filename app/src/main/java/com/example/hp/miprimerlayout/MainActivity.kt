@@ -25,9 +25,7 @@ class MainActivity : AppCompatActivity() {
                 resId = R.drawable.singapore
 
             foto.setImageResource(resId)
-            //foto.setBackgroundResource(R.drawable.madidi)
+
         }
-
-
     }
 }
